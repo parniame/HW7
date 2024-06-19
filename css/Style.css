@@ -1,7 +1,15 @@
 *{
     direction: rtl;
 }
-.icone img{
-    width: 25px;
-    height: 25px;
+
+h1{
+    font-size: xx-large;
 }
+h3{
+    font-size: large;
+}
+p{
+    color: grey;
+}
+
+
